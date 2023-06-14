@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá, me chamo Alisson! 👋
 Atualmente estou estudando na Etec Joaquim Ferreira do Amaral<br>- 🌱 Atualmente estou aprendendo PHP, C#<br>- 📫 Como chegar até mim: alissonmatheusmorenocunha@gmail.com<br>- 😄 Pronomes: ele/dele<br>- ⚡ Curiosidade: gosto de musicas e filmes
 
 
