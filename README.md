@@ -1,5 +1,5 @@
 #  Olá, me chamo Alisson! 👋
-Atualmente estou estudando na Etec Joaquim Ferreira do Amaral<br>- 🌱 Atualmente estou aprendendo PHP, C#<br>- 📫 Como chegar até mim: alissonmatheusmorenocunha@gmail.com<br>- ⚡ Curiosidade: gosto de musicas e filmes
+Atualmente estou estudando na Etec Joaquim Ferreira do Amaral<br>- 🌱 Atualmente estou aprendendo PHP, MAUI<br>- 📫 Como chegar até mim: alissonmatheusmorenocunha@gmail.com<br>- ⚡ Curiosidade: gosto de musicas e filmes
 
 
 ## 🌐 Socials:
