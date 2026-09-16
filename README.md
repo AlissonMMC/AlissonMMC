@@ -1,27 +1,95 @@
-#  Olá, me chamo Alisson! 👋
-💻 Técnico em Desenvolvimento de Sistemas
-⚙️ Desenvolvimento de software • Automação • Dados
+# Olá, eu sou o Alisson! 👋
 
-Sou Técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral e tenho interesse em transformar problemas do dia a dia em soluções utilizando tecnologia.
+💻 **Técnico em Desenvolvimento de Sistemas**  
+⚙️ **Desenvolvimento de Software • Automação • Dados**
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, Python, automação de processos e análise de dados.
+Sou Técnico em Desenvolvimento de Sistemas pela **ETEC Joaquim Ferreira do Amaral** e gosto de transformar problemas reais em soluções utilizando tecnologia.
 
+Tenho experiência prática com desenvolvimento de aplicações, automação de processos e análise de dados, com foco em **C#, .NET, Python, SQL, Power BI e Power Automate**.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/alisson.mariae_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonmmc/) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlissonMMC&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlissonMMC&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonMMC&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlissonMMC&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Atualmente continuo aprofundando meus conhecimentos em desenvolvimento de software, automação e dados por meio de projetos práticos.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlissonMMC&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre mim
+
+- 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC
+- 💻 Desenvolvimento de aplicações com C# e .NET
+- 🐍 Estudos e projetos com Python
+- ⚙️ Automação de processos e tarefas repetitivas
+- 📊 Análise de dados e Power BI
+- 🗄️ SQL e organização de dados
+- 🧠 Interesse em transformar problemas do dia a dia em soluções tecnológicas
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks e plataformas
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Dados e automação
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛒 App de Lista de Compras
+
+Aplicação desenvolvida com **C# e .NET MAUI** para praticar desenvolvimento de aplicações e construção de interfaces multiplataforma.
+
+**Tecnologias:** C# • .NET MAUI
+
+### 💰 Calculadora de Renda
+
+Aplicação em C# voltada para cálculos relacionados à renda e despesas familiares.
+
+**Tecnologias:** C# • .NET
+
+### 📦 Pedidos e Despesas
+
+Projeto desenvolvido em C# para praticar organização e controle de informações relacionadas a pedidos e despesas.
+
+**Tecnologias:** C# • .NET
+
+### 🌦️ Aplicações de clima
+
+Projetos desenvolvidos com **.NET MAUI** para praticar aplicações relacionadas à consulta e apresentação de informações meteorológicas.
+
+**Tecnologias:** C# • .NET MAUI
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlissonMMC&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonMMC&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonmmc/)
+
+---
+
+> Construindo projetos, automatizando processos e aprendendo continuamente através da prática.
