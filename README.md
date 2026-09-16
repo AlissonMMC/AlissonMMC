@@ -1,5 +1,10 @@
 #  Olá, me chamo Alisson! 👋
-Tecnico em Desenvolvimento de sistemas pela ETEC Joaquim Ferreira do Amaral<br>- 🌱 Atualmente estou aprendendo Python<br>- 📫 Como chegar até mim: alissonmatheusmorenocunha@gmail.com<br>- ⚡ Curiosidade: gosto de musicas e filmes
+💻 Técnico em Desenvolvimento de Sistemas
+⚙️ Desenvolvimento de software • Automação • Dados
+
+Sou Técnico em Desenvolvimento de Sistemas pela ETEC Joaquim Ferreira do Amaral e tenho interesse em transformar problemas do dia a dia em soluções utilizando tecnologia.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, Python, automação de processos e análise de dados.
 
 
 
